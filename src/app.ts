@@ -1,15 +1,28 @@
-import cors from 'cors'
-import express, { Application, Request, Response } from 'express'
-const app: Application = express()
+import cors from 'cors';
+import express, { Application } from 'express';
+import globalErrorHandler from './app/middlewares/globalErrorHandler';
+import router from './app/routes';
+import { logger } from './shared/logger';
 
-app.use(cors())
+const app: Application = express();
+app.use(cors());
 //parser
-app.use(express.json())
-app.use(express.urlencoded({ extended: true }))
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+
+//Application   Routes
+logger.info(app.get('env'));
+logger.info(process.env);
+
+app.use('/api/v1', router);
 
 //testing
-app.get('/', (req: Request, res: Response) => {
-  res.send('Hello World!')
-})
+// app.get('/', async (req: Request, res: Response, next: NextFunction) => {
+//   throw new Error('Testing Error Logger')
+//   //   Promise.reject(new Error('Unhandled promise rejection'))
+// })
 
-export default app
+//global error handler
+app.use(globalErrorHandler);
+
+export default app;
