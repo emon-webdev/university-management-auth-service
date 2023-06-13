@@ -2,14 +2,14 @@
   message: 'development',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-11T12:24:28.515Z'
+  timestamp: '2023-06-13T05:38:49.677Z'
 }
 {
   message: {
     ACLOCAL_PATH: 'C:\\Program Files\\Git\\mingw64\\share\\aclocal;C:\\Program Files\\Git\\usr\\share\\aclocal',
     ALLUSERSPROFILE: 'C:\\ProgramData',
     APPDATA: 'C:\\Users\\Emon Hossain\\AppData\\Roaming',
-    CHROME_CRASHPAD_PIPE_NAME: '\\\\.\\pipe\\LOCAL\\crashpad_8208_WWICFLGCJKMMNUKC',
+    CHROME_CRASHPAD_PIPE_NAME: '\\\\.\\pipe\\LOCAL\\crashpad_9980_MFTWOXZMLZPWYITG',
     COLORTERM: 'truecolor',
     COMMONPROGRAMFILES: 'C:\\Program Files (x86)\\Common Files',
     'CommonProgramFiles(x86)': 'C:\\Program Files (x86)\\Common Files',
@@ -68,6 +68,7 @@
     npm_package_dependencies_dotenv: '^16.0.3',
     npm_package_dependencies_eslint: '^8.41.0',
     npm_package_dependencies_express: '^4.18.2',
+    npm_package_dependencies_http_status: '^1.6.2',
     npm_package_dependencies_lint_staged: '^13.2.2',
     npm_package_dependencies_mongoose: '^7.2.1',
     npm_package_dependencies_winston: '^3.9.0',
@@ -104,7 +105,7 @@
     ORIGINAL_TMP: 'C:/Users/EMONHO~1/AppData/Local/Temp',
     ORIGINAL_XDG_CURRENT_DESKTOP: 'undefined',
     OS: 'Windows_NT',
-    PATH: 'C:\\Users\\EMONHO~1\\AppData\\Local\\Temp\\yarn--1686450786265-0.1514772882086406;E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\node_modules\\.bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Yarn\\Data\\link\\node_modules\\.bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Yarn\\bin;C:\\Program Files (x86)\\libexec\\lib\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Program Files (x86)\\lib\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Program Files (x86)\\nodejs\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Users\\Emon Hossain\\bin;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\local\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Users\\Emon Hossain\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0;C:\\Windows\\System32\\OpenSSH;C:\\Program Files (x86)\\nodejs;C:\\Program Files\\Git\\cmd;C:\\wamp64\\bin\\php\\php7.4.33;C:\\ProgramData\\ComposerSetup\\bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Emon Hossain\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Emon Hossain\\AppData\\Roaming\\npm;C:\\Users\\Emon Hossain\\AppData\\Local\\Programs\\Microsoft VS Code Insiders\\bin;C:\\Users\\Emon Hossain\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Program Files\\Git\\usr\\bin\\vendor_perl;C:\\Program Files\\Git\\usr\\bin\\core_perl',
+    PATH: 'C:\\Users\\EMONHO~1\\AppData\\Local\\Temp\\yarn--1686627169075-0.6591533991682845;E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\node_modules\\.bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Yarn\\Data\\link\\node_modules\\.bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Yarn\\bin;C:\\Program Files (x86)\\libexec\\lib\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Program Files (x86)\\lib\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Program Files (x86)\\nodejs\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Users\\Emon Hossain\\bin;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\local\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Users\\Emon Hossain\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0;C:\\Windows\\System32\\OpenSSH;C:\\Program Files (x86)\\nodejs;C:\\Program Files\\Git\\cmd;C:\\wamp64\\bin\\php\\php7.4.33;C:\\ProgramData\\ComposerSetup\\bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Emon Hossain\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Emon Hossain\\AppData\\Roaming\\npm;C:\\Users\\Emon Hossain\\AppData\\Local\\Programs\\Microsoft VS Code Insiders\\bin;C:\\Users\\Emon Hossain\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Program Files\\Git\\usr\\bin\\vendor_perl;C:\\Program Files\\Git\\usr\\bin\\core_perl',
     PATHEXT: '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JSE;.WSF;.WSH;.MSC',
     PKG_CONFIG_PATH: 'C:\\Program Files\\Git\\mingw64\\lib\\pkgconfig;C:\\Program Files\\Git\\mingw64\\share\\pkgconfig',
     PKG_CONFIG_SYSTEM_INCLUDE_PATH: 'C:/Program Files/Git/mingw64/include',
@@ -150,32 +151,32 @@
   },
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-11T12:24:28.533Z'
+  timestamp: '2023-06-13T05:38:49.682Z'
 }
 {
   message: 'Database is connected successfully',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-11T12:24:31.705Z'
+  timestamp: '2023-06-13T05:38:52.529Z'
 }
 {
   message: 'Application listening on port 5000',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-11T12:24:31.720Z'
+  timestamp: '2023-06-13T05:38:52.545Z'
 }
 {
   message: 'development',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-11T12:24:45.821Z'
+  timestamp: '2023-06-13T05:39:26.146Z'
 }
 {
   message: {
     ACLOCAL_PATH: 'C:\\Program Files\\Git\\mingw64\\share\\aclocal;C:\\Program Files\\Git\\usr\\share\\aclocal',
     ALLUSERSPROFILE: 'C:\\ProgramData',
     APPDATA: 'C:\\Users\\Emon Hossain\\AppData\\Roaming',
-    CHROME_CRASHPAD_PIPE_NAME: '\\\\.\\pipe\\LOCAL\\crashpad_8208_WWICFLGCJKMMNUKC',
+    CHROME_CRASHPAD_PIPE_NAME: '\\\\.\\pipe\\LOCAL\\crashpad_9980_MFTWOXZMLZPWYITG',
     COLORTERM: 'truecolor',
     COMMONPROGRAMFILES: 'C:\\Program Files (x86)\\Common Files',
     'CommonProgramFiles(x86)': 'C:\\Program Files (x86)\\Common Files',
@@ -234,6 +235,7 @@
     npm_package_dependencies_dotenv: '^16.0.3',
     npm_package_dependencies_eslint: '^8.41.0',
     npm_package_dependencies_express: '^4.18.2',
+    npm_package_dependencies_http_status: '^1.6.2',
     npm_package_dependencies_lint_staged: '^13.2.2',
     npm_package_dependencies_mongoose: '^7.2.1',
     npm_package_dependencies_winston: '^3.9.0',
@@ -270,7 +272,7 @@
     ORIGINAL_TMP: 'C:/Users/EMONHO~1/AppData/Local/Temp',
     ORIGINAL_XDG_CURRENT_DESKTOP: 'undefined',
     OS: 'Windows_NT',
-    PATH: 'C:\\Users\\EMONHO~1\\AppData\\Local\\Temp\\yarn--1686450786265-0.1514772882086406;E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\node_modules\\.bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Yarn\\Data\\link\\node_modules\\.bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Yarn\\bin;C:\\Program Files (x86)\\libexec\\lib\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Program Files (x86)\\lib\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Program Files (x86)\\nodejs\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Users\\Emon Hossain\\bin;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\local\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Users\\Emon Hossain\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0;C:\\Windows\\System32\\OpenSSH;C:\\Program Files (x86)\\nodejs;C:\\Program Files\\Git\\cmd;C:\\wamp64\\bin\\php\\php7.4.33;C:\\ProgramData\\ComposerSetup\\bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Emon Hossain\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Emon Hossain\\AppData\\Roaming\\npm;C:\\Users\\Emon Hossain\\AppData\\Local\\Programs\\Microsoft VS Code Insiders\\bin;C:\\Users\\Emon Hossain\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Program Files\\Git\\usr\\bin\\vendor_perl;C:\\Program Files\\Git\\usr\\bin\\core_perl',
+    PATH: 'C:\\Users\\EMONHO~1\\AppData\\Local\\Temp\\yarn--1686627169075-0.6591533991682845;E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\node_modules\\.bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Yarn\\Data\\link\\node_modules\\.bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Yarn\\bin;C:\\Program Files (x86)\\libexec\\lib\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Program Files (x86)\\lib\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Program Files (x86)\\nodejs\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Users\\Emon Hossain\\bin;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\local\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Users\\Emon Hossain\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0;C:\\Windows\\System32\\OpenSSH;C:\\Program Files (x86)\\nodejs;C:\\Program Files\\Git\\cmd;C:\\wamp64\\bin\\php\\php7.4.33;C:\\ProgramData\\ComposerSetup\\bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Emon Hossain\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Emon Hossain\\AppData\\Roaming\\npm;C:\\Users\\Emon Hossain\\AppData\\Local\\Programs\\Microsoft VS Code Insiders\\bin;C:\\Users\\Emon Hossain\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Program Files\\Git\\usr\\bin\\vendor_perl;C:\\Program Files\\Git\\usr\\bin\\core_perl',
     PATHEXT: '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JSE;.WSF;.WSH;.MSC',
     PKG_CONFIG_PATH: 'C:\\Program Files\\Git\\mingw64\\lib\\pkgconfig;C:\\Program Files\\Git\\mingw64\\share\\pkgconfig',
     PKG_CONFIG_SYSTEM_INCLUDE_PATH: 'C:/Program Files/Git/mingw64/include',
@@ -316,32 +318,32 @@
   },
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-11T12:24:45.839Z'
+  timestamp: '2023-06-13T05:39:26.153Z'
 }
 {
   message: 'Database is connected successfully',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-11T12:24:48.828Z'
+  timestamp: '2023-06-13T05:39:33.956Z'
 }
 {
   message: 'Application listening on port 5000',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-11T12:24:48.902Z'
+  timestamp: '2023-06-13T05:39:33.965Z'
 }
 {
   message: 'development',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-11T12:24:53.221Z'
+  timestamp: '2023-06-13T05:39:55.504Z'
 }
 {
   message: {
     ACLOCAL_PATH: 'C:\\Program Files\\Git\\mingw64\\share\\aclocal;C:\\Program Files\\Git\\usr\\share\\aclocal',
     ALLUSERSPROFILE: 'C:\\ProgramData',
     APPDATA: 'C:\\Users\\Emon Hossain\\AppData\\Roaming',
-    CHROME_CRASHPAD_PIPE_NAME: '\\\\.\\pipe\\LOCAL\\crashpad_8208_WWICFLGCJKMMNUKC',
+    CHROME_CRASHPAD_PIPE_NAME: '\\\\.\\pipe\\LOCAL\\crashpad_9980_MFTWOXZMLZPWYITG',
     COLORTERM: 'truecolor',
     COMMONPROGRAMFILES: 'C:\\Program Files (x86)\\Common Files',
     'CommonProgramFiles(x86)': 'C:\\Program Files (x86)\\Common Files',
@@ -400,6 +402,7 @@
     npm_package_dependencies_dotenv: '^16.0.3',
     npm_package_dependencies_eslint: '^8.41.0',
     npm_package_dependencies_express: '^4.18.2',
+    npm_package_dependencies_http_status: '^1.6.2',
     npm_package_dependencies_lint_staged: '^13.2.2',
     npm_package_dependencies_mongoose: '^7.2.1',
     npm_package_dependencies_winston: '^3.9.0',
@@ -436,7 +439,7 @@
     ORIGINAL_TMP: 'C:/Users/EMONHO~1/AppData/Local/Temp',
     ORIGINAL_XDG_CURRENT_DESKTOP: 'undefined',
     OS: 'Windows_NT',
-    PATH: 'C:\\Users\\EMONHO~1\\AppData\\Local\\Temp\\yarn--1686450786265-0.1514772882086406;E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\node_modules\\.bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Yarn\\Data\\link\\node_modules\\.bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Yarn\\bin;C:\\Program Files (x86)\\libexec\\lib\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Program Files (x86)\\lib\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Program Files (x86)\\nodejs\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Users\\Emon Hossain\\bin;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\local\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Users\\Emon Hossain\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0;C:\\Windows\\System32\\OpenSSH;C:\\Program Files (x86)\\nodejs;C:\\Program Files\\Git\\cmd;C:\\wamp64\\bin\\php\\php7.4.33;C:\\ProgramData\\ComposerSetup\\bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Emon Hossain\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Emon Hossain\\AppData\\Roaming\\npm;C:\\Users\\Emon Hossain\\AppData\\Local\\Programs\\Microsoft VS Code Insiders\\bin;C:\\Users\\Emon Hossain\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Program Files\\Git\\usr\\bin\\vendor_perl;C:\\Program Files\\Git\\usr\\bin\\core_perl',
+    PATH: 'C:\\Users\\EMONHO~1\\AppData\\Local\\Temp\\yarn--1686627169075-0.6591533991682845;E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\node_modules\\.bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Yarn\\Data\\link\\node_modules\\.bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Yarn\\bin;C:\\Program Files (x86)\\libexec\\lib\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Program Files (x86)\\lib\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Program Files (x86)\\nodejs\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Users\\Emon Hossain\\bin;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\local\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Users\\Emon Hossain\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0;C:\\Windows\\System32\\OpenSSH;C:\\Program Files (x86)\\nodejs;C:\\Program Files\\Git\\cmd;C:\\wamp64\\bin\\php\\php7.4.33;C:\\ProgramData\\ComposerSetup\\bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Emon Hossain\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Emon Hossain\\AppData\\Roaming\\npm;C:\\Users\\Emon Hossain\\AppData\\Local\\Programs\\Microsoft VS Code Insiders\\bin;C:\\Users\\Emon Hossain\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Program Files\\Git\\usr\\bin\\vendor_perl;C:\\Program Files\\Git\\usr\\bin\\core_perl',
     PATHEXT: '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JSE;.WSF;.WSH;.MSC',
     PKG_CONFIG_PATH: 'C:\\Program Files\\Git\\mingw64\\lib\\pkgconfig;C:\\Program Files\\Git\\mingw64\\share\\pkgconfig',
     PKG_CONFIG_SYSTEM_INCLUDE_PATH: 'C:/Program Files/Git/mingw64/include',
@@ -482,32 +485,32 @@
   },
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-11T12:24:53.227Z'
+  timestamp: '2023-06-13T05:39:55.512Z'
 }
 {
   message: 'Database is connected successfully',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-11T12:24:57.155Z'
+  timestamp: '2023-06-13T05:39:58.398Z'
 }
 {
   message: 'Application listening on port 5000',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-11T12:24:57.163Z'
+  timestamp: '2023-06-13T05:39:58.418Z'
 }
 {
   message: 'development',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-11T12:36:51.583Z'
+  timestamp: '2023-06-13T05:40:03.708Z'
 }
 {
   message: {
     ACLOCAL_PATH: 'C:\\Program Files\\Git\\mingw64\\share\\aclocal;C:\\Program Files\\Git\\usr\\share\\aclocal',
     ALLUSERSPROFILE: 'C:\\ProgramData',
     APPDATA: 'C:\\Users\\Emon Hossain\\AppData\\Roaming',
-    CHROME_CRASHPAD_PIPE_NAME: '\\\\.\\pipe\\LOCAL\\crashpad_8208_WWICFLGCJKMMNUKC',
+    CHROME_CRASHPAD_PIPE_NAME: '\\\\.\\pipe\\LOCAL\\crashpad_9980_MFTWOXZMLZPWYITG',
     COLORTERM: 'truecolor',
     COMMONPROGRAMFILES: 'C:\\Program Files (x86)\\Common Files',
     'CommonProgramFiles(x86)': 'C:\\Program Files (x86)\\Common Files',
@@ -566,6 +569,7 @@
     npm_package_dependencies_dotenv: '^16.0.3',
     npm_package_dependencies_eslint: '^8.41.0',
     npm_package_dependencies_express: '^4.18.2',
+    npm_package_dependencies_http_status: '^1.6.2',
     npm_package_dependencies_lint_staged: '^13.2.2',
     npm_package_dependencies_mongoose: '^7.2.1',
     npm_package_dependencies_winston: '^3.9.0',
@@ -602,7 +606,7 @@
     ORIGINAL_TMP: 'C:/Users/EMONHO~1/AppData/Local/Temp',
     ORIGINAL_XDG_CURRENT_DESKTOP: 'undefined',
     OS: 'Windows_NT',
-    PATH: 'C:\\Users\\EMONHO~1\\AppData\\Local\\Temp\\yarn--1686450786265-0.1514772882086406;E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\node_modules\\.bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Yarn\\Data\\link\\node_modules\\.bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Yarn\\bin;C:\\Program Files (x86)\\libexec\\lib\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Program Files (x86)\\lib\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Program Files (x86)\\nodejs\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Users\\Emon Hossain\\bin;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\local\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Users\\Emon Hossain\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0;C:\\Windows\\System32\\OpenSSH;C:\\Program Files (x86)\\nodejs;C:\\Program Files\\Git\\cmd;C:\\wamp64\\bin\\php\\php7.4.33;C:\\ProgramData\\ComposerSetup\\bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Emon Hossain\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Emon Hossain\\AppData\\Roaming\\npm;C:\\Users\\Emon Hossain\\AppData\\Local\\Programs\\Microsoft VS Code Insiders\\bin;C:\\Users\\Emon Hossain\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Program Files\\Git\\usr\\bin\\vendor_perl;C:\\Program Files\\Git\\usr\\bin\\core_perl',
+    PATH: 'C:\\Users\\EMONHO~1\\AppData\\Local\\Temp\\yarn--1686627169075-0.6591533991682845;E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\node_modules\\.bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Yarn\\Data\\link\\node_modules\\.bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Yarn\\bin;C:\\Program Files (x86)\\libexec\\lib\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Program Files (x86)\\lib\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Program Files (x86)\\nodejs\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Users\\Emon Hossain\\bin;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\local\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Users\\Emon Hossain\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0;C:\\Windows\\System32\\OpenSSH;C:\\Program Files (x86)\\nodejs;C:\\Program Files\\Git\\cmd;C:\\wamp64\\bin\\php\\php7.4.33;C:\\ProgramData\\ComposerSetup\\bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Emon Hossain\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Emon Hossain\\AppData\\Roaming\\npm;C:\\Users\\Emon Hossain\\AppData\\Local\\Programs\\Microsoft VS Code Insiders\\bin;C:\\Users\\Emon Hossain\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Program Files\\Git\\usr\\bin\\vendor_perl;C:\\Program Files\\Git\\usr\\bin\\core_perl',
     PATHEXT: '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JSE;.WSF;.WSH;.MSC',
     PKG_CONFIG_PATH: 'C:\\Program Files\\Git\\mingw64\\lib\\pkgconfig;C:\\Program Files\\Git\\mingw64\\share\\pkgconfig',
     PKG_CONFIG_SYSTEM_INCLUDE_PATH: 'C:/Program Files/Git/mingw64/include',
@@ -648,32 +652,32 @@
   },
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-11T12:36:51.591Z'
+  timestamp: '2023-06-13T05:40:03.714Z'
 }
 {
   message: 'Database is connected successfully',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-11T12:36:54.586Z'
+  timestamp: '2023-06-13T05:40:06.428Z'
 }
 {
   message: 'Application listening on port 5000',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-11T12:36:54.597Z'
+  timestamp: '2023-06-13T05:40:06.449Z'
 }
 {
   message: 'development',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-11T12:37:46.802Z'
+  timestamp: '2023-06-13T05:41:59.782Z'
 }
 {
   message: {
     ACLOCAL_PATH: 'C:\\Program Files\\Git\\mingw64\\share\\aclocal;C:\\Program Files\\Git\\usr\\share\\aclocal',
     ALLUSERSPROFILE: 'C:\\ProgramData',
     APPDATA: 'C:\\Users\\Emon Hossain\\AppData\\Roaming',
-    CHROME_CRASHPAD_PIPE_NAME: '\\\\.\\pipe\\LOCAL\\crashpad_8208_WWICFLGCJKMMNUKC',
+    CHROME_CRASHPAD_PIPE_NAME: '\\\\.\\pipe\\LOCAL\\crashpad_9980_MFTWOXZMLZPWYITG',
     COLORTERM: 'truecolor',
     COMMONPROGRAMFILES: 'C:\\Program Files (x86)\\Common Files',
     'CommonProgramFiles(x86)': 'C:\\Program Files (x86)\\Common Files',
@@ -732,6 +736,7 @@
     npm_package_dependencies_dotenv: '^16.0.3',
     npm_package_dependencies_eslint: '^8.41.0',
     npm_package_dependencies_express: '^4.18.2',
+    npm_package_dependencies_http_status: '^1.6.2',
     npm_package_dependencies_lint_staged: '^13.2.2',
     npm_package_dependencies_mongoose: '^7.2.1',
     npm_package_dependencies_winston: '^3.9.0',
@@ -768,7 +773,7 @@
     ORIGINAL_TMP: 'C:/Users/EMONHO~1/AppData/Local/Temp',
     ORIGINAL_XDG_CURRENT_DESKTOP: 'undefined',
     OS: 'Windows_NT',
-    PATH: 'C:\\Users\\EMONHO~1\\AppData\\Local\\Temp\\yarn--1686450786265-0.1514772882086406;E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\node_modules\\.bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Yarn\\Data\\link\\node_modules\\.bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Yarn\\bin;C:\\Program Files (x86)\\libexec\\lib\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Program Files (x86)\\lib\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Program Files (x86)\\nodejs\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Users\\Emon Hossain\\bin;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\local\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Users\\Emon Hossain\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0;C:\\Windows\\System32\\OpenSSH;C:\\Program Files (x86)\\nodejs;C:\\Program Files\\Git\\cmd;C:\\wamp64\\bin\\php\\php7.4.33;C:\\ProgramData\\ComposerSetup\\bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Emon Hossain\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Emon Hossain\\AppData\\Roaming\\npm;C:\\Users\\Emon Hossain\\AppData\\Local\\Programs\\Microsoft VS Code Insiders\\bin;C:\\Users\\Emon Hossain\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Program Files\\Git\\usr\\bin\\vendor_perl;C:\\Program Files\\Git\\usr\\bin\\core_perl',
+    PATH: 'C:\\Users\\EMONHO~1\\AppData\\Local\\Temp\\yarn--1686627169075-0.6591533991682845;E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\node_modules\\.bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Yarn\\Data\\link\\node_modules\\.bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Yarn\\bin;C:\\Program Files (x86)\\libexec\\lib\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Program Files (x86)\\lib\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Program Files (x86)\\nodejs\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Users\\Emon Hossain\\bin;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\local\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Users\\Emon Hossain\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0;C:\\Windows\\System32\\OpenSSH;C:\\Program Files (x86)\\nodejs;C:\\Program Files\\Git\\cmd;C:\\wamp64\\bin\\php\\php7.4.33;C:\\ProgramData\\ComposerSetup\\bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Emon Hossain\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Emon Hossain\\AppData\\Roaming\\npm;C:\\Users\\Emon Hossain\\AppData\\Local\\Programs\\Microsoft VS Code Insiders\\bin;C:\\Users\\Emon Hossain\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Program Files\\Git\\usr\\bin\\vendor_perl;C:\\Program Files\\Git\\usr\\bin\\core_perl',
     PATHEXT: '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JSE;.WSF;.WSH;.MSC',
     PKG_CONFIG_PATH: 'C:\\Program Files\\Git\\mingw64\\lib\\pkgconfig;C:\\Program Files\\Git\\mingw64\\share\\pkgconfig',
     PKG_CONFIG_SYSTEM_INCLUDE_PATH: 'C:/Program Files/Git/mingw64/include',
@@ -814,32 +819,32 @@
   },
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-11T12:37:46.823Z'
+  timestamp: '2023-06-13T05:41:59.790Z'
 }
 {
   message: 'Database is connected successfully',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-11T12:37:49.721Z'
+  timestamp: '2023-06-13T05:42:02.532Z'
 }
 {
   message: 'Application listening on port 5000',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-11T12:37:49.730Z'
+  timestamp: '2023-06-13T05:42:02.546Z'
 }
 {
   message: 'development',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-11T12:44:28.393Z'
+  timestamp: '2023-06-13T05:42:37.779Z'
 }
 {
   message: {
     ACLOCAL_PATH: 'C:\\Program Files\\Git\\mingw64\\share\\aclocal;C:\\Program Files\\Git\\usr\\share\\aclocal',
     ALLUSERSPROFILE: 'C:\\ProgramData',
     APPDATA: 'C:\\Users\\Emon Hossain\\AppData\\Roaming',
-    CHROME_CRASHPAD_PIPE_NAME: '\\\\.\\pipe\\LOCAL\\crashpad_8208_WWICFLGCJKMMNUKC',
+    CHROME_CRASHPAD_PIPE_NAME: '\\\\.\\pipe\\LOCAL\\crashpad_9980_MFTWOXZMLZPWYITG',
     COLORTERM: 'truecolor',
     COMMONPROGRAMFILES: 'C:\\Program Files (x86)\\Common Files',
     'CommonProgramFiles(x86)': 'C:\\Program Files (x86)\\Common Files',
@@ -898,6 +903,7 @@
     npm_package_dependencies_dotenv: '^16.0.3',
     npm_package_dependencies_eslint: '^8.41.0',
     npm_package_dependencies_express: '^4.18.2',
+    npm_package_dependencies_http_status: '^1.6.2',
     npm_package_dependencies_lint_staged: '^13.2.2',
     npm_package_dependencies_mongoose: '^7.2.1',
     npm_package_dependencies_winston: '^3.9.0',
@@ -934,7 +940,7 @@
     ORIGINAL_TMP: 'C:/Users/EMONHO~1/AppData/Local/Temp',
     ORIGINAL_XDG_CURRENT_DESKTOP: 'undefined',
     OS: 'Windows_NT',
-    PATH: 'C:\\Users\\EMONHO~1\\AppData\\Local\\Temp\\yarn--1686450786265-0.1514772882086406;E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\node_modules\\.bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Yarn\\Data\\link\\node_modules\\.bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Yarn\\bin;C:\\Program Files (x86)\\libexec\\lib\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Program Files (x86)\\lib\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Program Files (x86)\\nodejs\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Users\\Emon Hossain\\bin;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\local\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Users\\Emon Hossain\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0;C:\\Windows\\System32\\OpenSSH;C:\\Program Files (x86)\\nodejs;C:\\Program Files\\Git\\cmd;C:\\wamp64\\bin\\php\\php7.4.33;C:\\ProgramData\\ComposerSetup\\bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Emon Hossain\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Emon Hossain\\AppData\\Roaming\\npm;C:\\Users\\Emon Hossain\\AppData\\Local\\Programs\\Microsoft VS Code Insiders\\bin;C:\\Users\\Emon Hossain\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Program Files\\Git\\usr\\bin\\vendor_perl;C:\\Program Files\\Git\\usr\\bin\\core_perl',
+    PATH: 'C:\\Users\\EMONHO~1\\AppData\\Local\\Temp\\yarn--1686627169075-0.6591533991682845;E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\node_modules\\.bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Yarn\\Data\\link\\node_modules\\.bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Yarn\\bin;C:\\Program Files (x86)\\libexec\\lib\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Program Files (x86)\\lib\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Program Files (x86)\\nodejs\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Users\\Emon Hossain\\bin;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\local\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Users\\Emon Hossain\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0;C:\\Windows\\System32\\OpenSSH;C:\\Program Files (x86)\\nodejs;C:\\Program Files\\Git\\cmd;C:\\wamp64\\bin\\php\\php7.4.33;C:\\ProgramData\\ComposerSetup\\bin;C:\\Users\\Emon Hossain\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Emon Hossain\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Emon Hossain\\AppData\\Roaming\\npm;C:\\Users\\Emon Hossain\\AppData\\Local\\Programs\\Microsoft VS Code Insiders\\bin;C:\\Users\\Emon Hossain\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Program Files\\Git\\usr\\bin\\vendor_perl;C:\\Program Files\\Git\\usr\\bin\\core_perl',
     PATHEXT: '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JSE;.WSF;.WSH;.MSC',
     PKG_CONFIG_PATH: 'C:\\Program Files\\Git\\mingw64\\lib\\pkgconfig;C:\\Program Files\\Git\\mingw64\\share\\pkgconfig',
     PKG_CONFIG_SYSTEM_INCLUDE_PATH: 'C:/Program Files/Git/mingw64/include',
@@ -980,17 +986,17 @@
   },
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-11T12:44:28.401Z'
+  timestamp: '2023-06-13T05:42:37.786Z'
 }
 {
   message: 'Database is connected successfully',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-11T12:44:31.341Z'
+  timestamp: '2023-06-13T05:42:40.509Z'
 }
 {
   message: 'Application listening on port 5000',
   level: 'info',
   label: 'PH',
-  timestamp: '2023-06-11T12:44:31.350Z'
+  timestamp: '2023-06-13T05:42:40.516Z'
 }
