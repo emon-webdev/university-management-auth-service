@@ -56,7 +56,6 @@ const updateFaculty = catchAsync(
   catchAsync(async (req: Request, res: Response) => {
     const { id } = req.params;
     const updatedData = req.body;
-    console.log(id, updatedData);
     const result = await AcademicFacultyService.updateFaculty(id, updatedData);
 
     sendResponse<IAcademicFaculty>(res, {
