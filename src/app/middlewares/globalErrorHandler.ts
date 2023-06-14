@@ -1,7 +1,8 @@
+/* eslint-disable no-unused-vars */
 /* eslint-disable no-console */
-/* eslint-disable prefer-const */
-// eslint-disable-next-line no-unused-expressions
-import { ErrorRequestHandler } from 'express';
+/* eslint-disable no-unused-vars */
+/* eslint-disable no-unused-expressions */
+import { ErrorRequestHandler, NextFunction } from 'express';
 import { ZodError } from 'zod';
 import config from '../../config';
 import ApiError from '../../errors/ApiError';
@@ -10,7 +11,13 @@ import { handleValidationError } from '../../errors/handleValidationError';
 import handleZodError from '../../errors/handleZodError';
 import { IGenericErrorMessage } from '../../interfaces/error';
 import { errorLogger } from '../../shared/logger';
-const globalErrorHandler: ErrorRequestHandler = (error, req, res) => {
+const globalErrorHandler: ErrorRequestHandler = (
+  error,
+  req,
+  res,
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
+  next: NextFunction
+) => {
   //   res.status(400).json({ err: err })
 
   // eslint-disable-next-line no-unused-expressions

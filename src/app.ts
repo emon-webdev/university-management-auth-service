@@ -17,12 +17,6 @@ logger.info(process.env);
 
 app.use('/api/v1', router);
 
-//testing
-// app.get('/', async (req: Request, res: Response, next: NextFunction) => {
-//   throw new Error('Testing Error Logger')
-//   //   Promise.reject(new Error('Unhandled promise rejection'))
-// })
-
 //global error handler
 app.use(globalErrorHandler);
 
