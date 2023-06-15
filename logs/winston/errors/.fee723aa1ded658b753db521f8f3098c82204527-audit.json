@@ -1,255 +1,255 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\.fee723aa1ded658b753db521f8f3098c82204527-audit.json",
+  "files": [
+    {
+      "date": 1686227458181,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-08-06-18-error.log",
+      "hash": "6f21238c1e6c41543d6d5bec4e19c108ad778317bea7793261f338da2765b44f"
     },
-    "auditLog": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\.fee723aa1ded658b753db521f8f3098c82204527-audit.json",
-    "files": [
-        {
-            "date": 1686227458181,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-08-06-18-error.log",
-            "hash": "6f21238c1e6c41543d6d5bec4e19c108ad778317bea7793261f338da2765b44f"
-        },
-        {
-            "date": 1686289792020,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-09-06-11-error.log",
-            "hash": "6648ea64be281767e124ac2d61ac5da08a6b6d8befca4a49cd5f39321aa5c8c7"
-        },
-        {
-            "date": 1686290426125,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-09-06-12-error.log",
-            "hash": "82749396446b2903ae5360fe576fc5bdab96ecd2d4e004200ac527373e950f0a"
-        },
-        {
-            "date": 1686306848603,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-09-06-16-error.log",
-            "hash": "516adfb8fb51dedecf91b642ea632c71598c2c54ee6c64aca847fee4ad0df6cb"
-        },
-        {
-            "date": 1686308768162,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-09-06-17-error.log",
-            "hash": "5246a249fb0e92bf6ed7c3f269b3179da782bfb3e438b654244969467f073cf7"
-        },
-        {
-            "date": 1686312301637,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-09-06-18-error.log",
-            "hash": "a6a97e3c61dd26065deda80b5423e208b6149431c4bb45e7da15ec8b2e8b89d6"
-        },
-        {
-            "date": 1686364365956,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-10-06-08-error.log",
-            "hash": "f9d1b661a38927fd735a45929f29da646b0969f9a23377f601737d17e4b2aadf"
-        },
-        {
-            "date": 1686414229231,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-10-06-22-error.log",
-            "hash": "2491e173424e14789ffbe5a753c982089b02228b5ab62beab3e327a499648aba"
-        },
-        {
-            "date": 1686450801148,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-11-06-08-error.log",
-            "hash": "8c1a1337bce309334121c57b5e0d01812ef4167426743387205d7394d6eba503"
-        },
-        {
-            "date": 1686455155305,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-11-06-09-error.log",
-            "hash": "dfc66f95c3694b53621e085510ebb6b6c1b78c83f448f950426f83baca244f99"
-        },
-        {
-            "date": 1686456124888,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-11-06-10-error.log",
-            "hash": "78d16e781d2fa8a041ad0cffa45b211809c0296b88ce94ec1c4c38227b3dfbc5"
-        },
-        {
-            "date": 1686460989868,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-11-06-11-error.log",
-            "hash": "1056549a113d6495b52018149d72e63d29d705ea88f80783052a1ad8b86d14d9"
-        },
-        {
-            "date": 1686465972501,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-11-06-12-error.log",
-            "hash": "7b4665b175fe35c5e0db05965081a0c9e2cd6fead9958dbb2c7ed6743915f7d9"
-        },
-        {
-            "date": 1686467601052,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-11-06-13-error.log",
-            "hash": "0f00ea40a69d08bbdfdccacffb89e12531798f75f60c9420bbb6ba73b633cb26"
-        },
-        {
-            "date": 1686472051273,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-11-06-14-error.log",
-            "hash": "62c0bd24f58b0250262c0c3a27349231ed4d065a85b8dcc1a7857fa888bd8cdb"
-        },
-        {
-            "date": 1686477004695,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-11-06-15-error.log",
-            "hash": "093439c49c03c1dbeb22df7eb13387446f5645979d3e9375db5f3b0a32d58948"
-        },
-        {
-            "date": 1686486268400,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-11-06-18-error.log",
-            "hash": "28c4d92b8e0ef563b4b97544aef1ec24ed96f3e6a323d29c31cbeaecd25c0e3c"
-        },
-        {
-            "date": 1686541630447,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-12-06-09-error.log",
-            "hash": "fa52e2dbf7f0fcab50c420d43c0bbb7e65dd0c2e7388c47e7b09830a8f1d9ac0"
-        },
-        {
-            "date": 1686545713425,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-12-06-10-error.log",
-            "hash": "68cbe507c75ce93bc1acbf7404459637adcc30ac5a639ccace1b4a990249a42e"
-        },
-        {
-            "date": 1686548090979,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-12-06-11-error.log",
-            "hash": "75a9d7418559c0819d33b481a33f4302c6c2fca147b1441b23d0cebccc6445af"
-        },
-        {
-            "date": 1686551823095,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-12-06-12-error.log",
-            "hash": "a14b7adb2c19af408430f215104bb8a88dbd1ae80924e4ce0500f2465f55c307"
-        },
-        {
-            "date": 1686586541101,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-12-06-22-error.log",
-            "hash": "29ee271126949291558d20a20f9a29e22c09f90b7ee5827840ef603b98ca27af"
-        },
-        {
-            "date": 1686590119216,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-12-06-23-error.log",
-            "hash": "059e521b16687e7c6cce8bb849141d4dd41e398d6ea8612e4eca734fdc3ccd9e"
-        },
-        {
-            "date": 1686594299410,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-13-06-00-error.log",
-            "hash": "edeb09008dc72d5cef7b468c4b02ebb0d218face66c057d35cb34afe2ccba13c"
-        },
-        {
-            "date": 1686596538002,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-13-06-01-error.log",
-            "hash": "70ce2517a4ece51271b304092a734a68efb5ffca04360c5f3b0ae4fa1c76e740"
-        },
-        {
-            "date": 1686627171278,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-13-06-09-error.log",
-            "hash": "ace7d81293591e37d8f713641b7e357abc14baf7e9d43747002932af14d9e326"
-        },
-        {
-            "date": 1686629037716,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-13-06-10-error.log",
-            "hash": "854804aacc980d7706fd2076fabfd5844600e93d4650a7cc95c806a80ac93dd2"
-        },
-        {
-            "date": 1686634729615,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-13-06-11-error.log",
-            "hash": "0dec2ea6f5070cde896946d4e5c2f92c3c2135b40ba9027d1ad165cb16819dc4"
-        },
-        {
-            "date": 1686636247945,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-13-06-12-error.log",
-            "hash": "48267cb6661b88d6aaf383d7d89d909b511e77bfd126f1d99b3726a8ca7c352a"
-        },
-        {
-            "date": 1686643451230,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-13-06-14-error.log",
-            "hash": "b32766bbe0fd607d89b12b4851e2818183223e6e4018be6f5e86496dd4637360"
-        },
-        {
-            "date": 1686657530873,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-13-06-17-error.log",
-            "hash": "86868c6db1355baf2a262c6b475c8dfb4bfc4a95fe2fdee66d4043591f9c39f0"
-        },
-        {
-            "date": 1686658010493,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-13-06-18-error.log",
-            "hash": "0f0bd32676c17b9cebc971aeb61dd8e29f177685e6ad482a900755908fecd61b"
-        },
-        {
-            "date": 1686663335233,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-13-06-19-error.log",
-            "hash": "3e8369ab3087bea2f146452336eed2977a1de55860683c1d470285eab2658ea4"
-        },
-        {
-            "date": 1686666589981,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-13-06-20-error.log",
-            "hash": "b7725358a43db04bd5aee9b925589bc32c6902063cefb7cf623b5e3ae4e27fbf"
-        },
-        {
-            "date": 1686668507826,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-13-06-21-error.log",
-            "hash": "2d36eca999a7ebef9fa74791619300c21b60fd68c6025603c019e91948fd04bc"
-        },
-        {
-            "date": 1686685363828,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-14-06-01-error.log",
-            "hash": "91333fc38f3b44eb84a6f08cab2280ea654a9e16a25c7d39f1780cd3436817d6"
-        },
-        {
-            "date": 1686687289482,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-14-06-02-error.log",
-            "hash": "7e79e67cbf1258085a060afcba8fa7008df503412fde087f9b171c720ab5e4c7"
-        },
-        {
-            "date": 1686715832567,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-14-06-10-error.log",
-            "hash": "0c79b035fe9addc1cc10652bcc7e1b634b04fe9461af1cf17481868a7cbf7b79"
-        },
-        {
-            "date": 1686718956215,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-14-06-11-error.log",
-            "hash": "c1726f3a32bac2c3ebc3593b2b71b67df7eaa590764932a08f46a71cf6cd8fde"
-        },
-        {
-            "date": 1686722412123,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-14-06-12-error.log",
-            "hash": "10fc0808d94d014752c0231f14b2020bf096b3452ef96e3bb9f4a8cf264be0e8"
-        },
-        {
-            "date": 1686726169681,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-14-06-13-error.log",
-            "hash": "efb73e06ff16106e993b2867162766353c2e17a103bae58bb5c42bc6db1deaa7"
-        },
-        {
-            "date": 1686731913484,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-14-06-14-error.log",
-            "hash": "71847f49907de23495f266d2a02698ac24908aea677f09e9f4e46b5e3f2f98c2"
-        },
-        {
-            "date": 1686734089282,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-14-06-15-error.log",
-            "hash": "0ff38085c51e136f0f601b895b920f5e6dc0ae88e6d889e4d2e79e65116d2908"
-        },
-        {
-            "date": 1686737484848,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-14-06-16-error.log",
-            "hash": "17d0221bdbef32fb1e06a27267409ec76b3646cd6f46d84104f708b3734ee9a6"
-        },
-        {
-            "date": 1686740636694,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-14-06-17-error.log",
-            "hash": "24438614cfaeccafa2dae24fb95ce0ee513d1be1ec988ecbb2364abae5b41b21"
-        },
-        {
-            "date": 1686744137801,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-14-06-18-error.log",
-            "hash": "e4bcf36d7a67d3994ab8b683a39216a8fb3a427445cd2d1cabd2309ccc3a40ef"
-        },
-        {
-            "date": 1686756764092,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-14-06-21-error.log",
-            "hash": "d1e78c504345538e0532c2255530c3eabe0579d616af239efb8dc8b4f11b6025"
-        },
-        {
-            "date": 1686762865129,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-14-06-23-error.log",
-            "hash": "65dd517e85e9c8444be2926b8507230d95994b98de69266e8624cbf6fdfbd046"
-        },
-        {
-            "date": 1686767761397,
-            "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-15-06-00-error.log",
-            "hash": "b671a21dcfd8197d6e025412f78d27e709532f6c76ada0bc57c1ed06b79d7e21"
-        }
-    ],
-    "hashType": "sha256"
+    {
+      "date": 1686289792020,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-09-06-11-error.log",
+      "hash": "6648ea64be281767e124ac2d61ac5da08a6b6d8befca4a49cd5f39321aa5c8c7"
+    },
+    {
+      "date": 1686290426125,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-09-06-12-error.log",
+      "hash": "82749396446b2903ae5360fe576fc5bdab96ecd2d4e004200ac527373e950f0a"
+    },
+    {
+      "date": 1686306848603,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-09-06-16-error.log",
+      "hash": "516adfb8fb51dedecf91b642ea632c71598c2c54ee6c64aca847fee4ad0df6cb"
+    },
+    {
+      "date": 1686308768162,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-09-06-17-error.log",
+      "hash": "5246a249fb0e92bf6ed7c3f269b3179da782bfb3e438b654244969467f073cf7"
+    },
+    {
+      "date": 1686312301637,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-09-06-18-error.log",
+      "hash": "a6a97e3c61dd26065deda80b5423e208b6149431c4bb45e7da15ec8b2e8b89d6"
+    },
+    {
+      "date": 1686364365956,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-10-06-08-error.log",
+      "hash": "f9d1b661a38927fd735a45929f29da646b0969f9a23377f601737d17e4b2aadf"
+    },
+    {
+      "date": 1686414229231,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-10-06-22-error.log",
+      "hash": "2491e173424e14789ffbe5a753c982089b02228b5ab62beab3e327a499648aba"
+    },
+    {
+      "date": 1686450801148,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-11-06-08-error.log",
+      "hash": "8c1a1337bce309334121c57b5e0d01812ef4167426743387205d7394d6eba503"
+    },
+    {
+      "date": 1686455155305,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-11-06-09-error.log",
+      "hash": "dfc66f95c3694b53621e085510ebb6b6c1b78c83f448f950426f83baca244f99"
+    },
+    {
+      "date": 1686456124888,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-11-06-10-error.log",
+      "hash": "78d16e781d2fa8a041ad0cffa45b211809c0296b88ce94ec1c4c38227b3dfbc5"
+    },
+    {
+      "date": 1686460989868,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-11-06-11-error.log",
+      "hash": "1056549a113d6495b52018149d72e63d29d705ea88f80783052a1ad8b86d14d9"
+    },
+    {
+      "date": 1686465972501,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-11-06-12-error.log",
+      "hash": "7b4665b175fe35c5e0db05965081a0c9e2cd6fead9958dbb2c7ed6743915f7d9"
+    },
+    {
+      "date": 1686467601052,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-11-06-13-error.log",
+      "hash": "0f00ea40a69d08bbdfdccacffb89e12531798f75f60c9420bbb6ba73b633cb26"
+    },
+    {
+      "date": 1686472051273,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-11-06-14-error.log",
+      "hash": "62c0bd24f58b0250262c0c3a27349231ed4d065a85b8dcc1a7857fa888bd8cdb"
+    },
+    {
+      "date": 1686477004695,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-11-06-15-error.log",
+      "hash": "093439c49c03c1dbeb22df7eb13387446f5645979d3e9375db5f3b0a32d58948"
+    },
+    {
+      "date": 1686486268400,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-11-06-18-error.log",
+      "hash": "28c4d92b8e0ef563b4b97544aef1ec24ed96f3e6a323d29c31cbeaecd25c0e3c"
+    },
+    {
+      "date": 1686541630447,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-12-06-09-error.log",
+      "hash": "fa52e2dbf7f0fcab50c420d43c0bbb7e65dd0c2e7388c47e7b09830a8f1d9ac0"
+    },
+    {
+      "date": 1686545713425,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-12-06-10-error.log",
+      "hash": "68cbe507c75ce93bc1acbf7404459637adcc30ac5a639ccace1b4a990249a42e"
+    },
+    {
+      "date": 1686548090979,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-12-06-11-error.log",
+      "hash": "75a9d7418559c0819d33b481a33f4302c6c2fca147b1441b23d0cebccc6445af"
+    },
+    {
+      "date": 1686551823095,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-12-06-12-error.log",
+      "hash": "a14b7adb2c19af408430f215104bb8a88dbd1ae80924e4ce0500f2465f55c307"
+    },
+    {
+      "date": 1686586541101,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-12-06-22-error.log",
+      "hash": "29ee271126949291558d20a20f9a29e22c09f90b7ee5827840ef603b98ca27af"
+    },
+    {
+      "date": 1686590119216,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-12-06-23-error.log",
+      "hash": "059e521b16687e7c6cce8bb849141d4dd41e398d6ea8612e4eca734fdc3ccd9e"
+    },
+    {
+      "date": 1686594299410,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-13-06-00-error.log",
+      "hash": "edeb09008dc72d5cef7b468c4b02ebb0d218face66c057d35cb34afe2ccba13c"
+    },
+    {
+      "date": 1686596538002,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-13-06-01-error.log",
+      "hash": "70ce2517a4ece51271b304092a734a68efb5ffca04360c5f3b0ae4fa1c76e740"
+    },
+    {
+      "date": 1686627171278,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-13-06-09-error.log",
+      "hash": "ace7d81293591e37d8f713641b7e357abc14baf7e9d43747002932af14d9e326"
+    },
+    {
+      "date": 1686629037716,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-13-06-10-error.log",
+      "hash": "854804aacc980d7706fd2076fabfd5844600e93d4650a7cc95c806a80ac93dd2"
+    },
+    {
+      "date": 1686634729615,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-13-06-11-error.log",
+      "hash": "0dec2ea6f5070cde896946d4e5c2f92c3c2135b40ba9027d1ad165cb16819dc4"
+    },
+    {
+      "date": 1686636247945,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-13-06-12-error.log",
+      "hash": "48267cb6661b88d6aaf383d7d89d909b511e77bfd126f1d99b3726a8ca7c352a"
+    },
+    {
+      "date": 1686643451230,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-13-06-14-error.log",
+      "hash": "b32766bbe0fd607d89b12b4851e2818183223e6e4018be6f5e86496dd4637360"
+    },
+    {
+      "date": 1686657530873,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-13-06-17-error.log",
+      "hash": "86868c6db1355baf2a262c6b475c8dfb4bfc4a95fe2fdee66d4043591f9c39f0"
+    },
+    {
+      "date": 1686658010493,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-13-06-18-error.log",
+      "hash": "0f0bd32676c17b9cebc971aeb61dd8e29f177685e6ad482a900755908fecd61b"
+    },
+    {
+      "date": 1686663335233,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-13-06-19-error.log",
+      "hash": "3e8369ab3087bea2f146452336eed2977a1de55860683c1d470285eab2658ea4"
+    },
+    {
+      "date": 1686666589981,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-13-06-20-error.log",
+      "hash": "b7725358a43db04bd5aee9b925589bc32c6902063cefb7cf623b5e3ae4e27fbf"
+    },
+    {
+      "date": 1686668507826,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-13-06-21-error.log",
+      "hash": "2d36eca999a7ebef9fa74791619300c21b60fd68c6025603c019e91948fd04bc"
+    },
+    {
+      "date": 1686685363828,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-14-06-01-error.log",
+      "hash": "91333fc38f3b44eb84a6f08cab2280ea654a9e16a25c7d39f1780cd3436817d6"
+    },
+    {
+      "date": 1686687289482,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-14-06-02-error.log",
+      "hash": "7e79e67cbf1258085a060afcba8fa7008df503412fde087f9b171c720ab5e4c7"
+    },
+    {
+      "date": 1686715832567,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-14-06-10-error.log",
+      "hash": "0c79b035fe9addc1cc10652bcc7e1b634b04fe9461af1cf17481868a7cbf7b79"
+    },
+    {
+      "date": 1686718956215,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-14-06-11-error.log",
+      "hash": "c1726f3a32bac2c3ebc3593b2b71b67df7eaa590764932a08f46a71cf6cd8fde"
+    },
+    {
+      "date": 1686722412123,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-14-06-12-error.log",
+      "hash": "10fc0808d94d014752c0231f14b2020bf096b3452ef96e3bb9f4a8cf264be0e8"
+    },
+    {
+      "date": 1686726169681,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-14-06-13-error.log",
+      "hash": "efb73e06ff16106e993b2867162766353c2e17a103bae58bb5c42bc6db1deaa7"
+    },
+    {
+      "date": 1686731913484,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-14-06-14-error.log",
+      "hash": "71847f49907de23495f266d2a02698ac24908aea677f09e9f4e46b5e3f2f98c2"
+    },
+    {
+      "date": 1686734089282,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-14-06-15-error.log",
+      "hash": "0ff38085c51e136f0f601b895b920f5e6dc0ae88e6d889e4d2e79e65116d2908"
+    },
+    {
+      "date": 1686737484848,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-14-06-16-error.log",
+      "hash": "17d0221bdbef32fb1e06a27267409ec76b3646cd6f46d84104f708b3734ee9a6"
+    },
+    {
+      "date": 1686740636694,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-14-06-17-error.log",
+      "hash": "24438614cfaeccafa2dae24fb95ce0ee513d1be1ec988ecbb2364abae5b41b21"
+    },
+    {
+      "date": 1686744137801,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-14-06-18-error.log",
+      "hash": "e4bcf36d7a67d3994ab8b683a39216a8fb3a427445cd2d1cabd2309ccc3a40ef"
+    },
+    {
+      "date": 1686756764092,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-14-06-21-error.log",
+      "hash": "d1e78c504345538e0532c2255530c3eabe0579d616af239efb8dc8b4f11b6025"
+    },
+    {
+      "date": 1686762865129,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-14-06-23-error.log",
+      "hash": "65dd517e85e9c8444be2926b8507230d95994b98de69266e8624cbf6fdfbd046"
+    },
+    {
+      "date": 1686767761397,
+      "name": "E:\\Apollo  PH Level 2 Web Dev\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-15-06-00-error.log",
+      "hash": "b671a21dcfd8197d6e025412f78d27e709532f6c76ada0bc57c1ed06b79d7e21"
+    }
+  ],
+  "hashType": "sha256"
 }
