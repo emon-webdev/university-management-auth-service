@@ -35,4 +35,16 @@ app.use((req: Request, res: Response, next: NextFunction) => {
   next();
 });
 
+// test api
+// const academicSemester = {
+//   code: "01",
+//   year: "2025"
+// }
+
+// const testId = async () => {
+//   const testId = generateFacultyId()
+//   console.log(testId)
+// }
+// testId()
+
 export default app;
